@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abc-clothing/static/css/main.c362feae.css",
+    "main.js": "/abc-clothing/static/js/main.b398dc5d.js",
+    "static/js/787.039831be.chunk.js": "/abc-clothing/static/js/787.039831be.chunk.js",
+    "index.html": "/abc-clothing/index.html",
+    "main.c362feae.css.map": "/abc-clothing/static/css/main.c362feae.css.map",
+    "main.b398dc5d.js.map": "/abc-clothing/static/js/main.b398dc5d.js.map",
+    "787.039831be.chunk.js.map": "/abc-clothing/static/js/787.039831be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c362feae.css",
+    "static/js/main.b398dc5d.js"
+  ]
+}
